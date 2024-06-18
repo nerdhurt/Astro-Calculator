@@ -321,3 +321,24 @@ to{transform:rotate(360deg)translateX(150px)rotate(-360deg);}
 height: 650px;
 width: 650px;
 }
+
+.astronaut {
+    height: 30px;
+    width: 30px;
+    background-image: url(../images/astronaut.png);
+    background-size: 120%;
+    background-position: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    animation: orbit13 90s linear infinite;
+}
+@keyframes orbit14{
+from{transform:rotate(0deg)translateX(150px)rotate(0deg);}
+to{transform:rotate(360deg)translateX(150px)rotate(-360deg);}
+}   
+.astronaut-outline-1{
+height: 650px;
+width: 650px;
+}
