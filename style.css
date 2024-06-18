@@ -349,7 +349,7 @@ height: 650px;
 width: 650px;
 }
 
-@media (min-width: 760px) {
+@media (max-width: 100%) {
     #planets, #user-weight, #calculate-button {
         font-size: 12px;
         padding: 10px;
