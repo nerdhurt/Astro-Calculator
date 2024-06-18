@@ -350,7 +350,7 @@ width: 650px;
 }
 
 @media (max-width: 768px) {
-    .container {
+    .body {
         padding: 10px;
     }
 }
