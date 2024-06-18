@@ -65,14 +65,14 @@ h1 {
 body {
     margin: 0px;
     padding: 0px;
-    background-image: url(../images/space2.png);
+    background-image: url(images/space2.png);
     background-size: 133%;
 }
 
 .sun {
     width: 100px; 
     height: 100px; 
-    background-image: url(../images/sun.png); 
+    background-image: url(images/sun.png); 
     background-size: cover; 
     background-position: center; 
     position: absolute;
@@ -85,7 +85,7 @@ body {
 .mercury {
     height: 20px;
     width: 20px;
-    background-image: url(../images/mercury.png);
+    background-image: url(images/mercury.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -118,7 +118,7 @@ body {
 .venus {
         height: 40px;
         width: 40px;
-        background-image: url(../images/venus.png);
+        background-image: url(images/venus.png);
         background-size: 100%;
         background-position: center;
         position: absolute;
@@ -138,7 +138,7 @@ body {
 .earth {
     height: 50px;
     width: 50px;
-    background-image: url(../images/earth.png);
+    background-image: url(images/earth.png);
     background-size: 176%;
     background-position: center;
     position: absolute;
@@ -181,7 +181,7 @@ body {
 .mars {
     height: 30px;
     width: 30px;
-    background-image: url(../images/mars.png);
+    background-image: url(images/mars.png);
     background-size: 145%;
     background-position: center;
     position: absolute;
@@ -201,7 +201,7 @@ width: 370px;
 .jupiter {
     height: 40px;
     width: 40px;
-    background-image: url(../images/jupiter.png);
+    background-image: url(images/jupiter.png);
     background-size: 145%;
     background-position: center;
     position: absolute;
@@ -221,7 +221,7 @@ width: 430px;
 .saturn {
     height: 50px;
     width: 50px;
-    background-image: url(../images/saturn.png);
+    background-image: url(images/saturn.png);
     background-size: 130%;
     background-position: center;
     position: absolute;
@@ -241,7 +241,7 @@ width: 500px;
 .uranus {
     height: 30px;
     width: 30px;
-    background-image: url(../images/uranus.png);
+    background-image: url(images/uranus.png);
     background-size: 120%;
     background-position: center;
     position: absolute;
@@ -262,7 +262,7 @@ width: 560px;
 .neptune {
     height: 30px;
     width: 30px;
-    background-image: url(../images/neptune.png);
+    background-image: url(images/neptune.png);
     background-size: 120%;
     background-position: center;
     position: absolute;
@@ -283,7 +283,7 @@ width: 620px;
 .rocket {
     height: 30px;
     width: 30px;
-    background-image: url(../images/rocket.png);
+    background-image: url(images/rocket.png);
     background-size: 120%;
     background-position: center;
     position: absolute;
@@ -304,7 +304,7 @@ width: 620px;
 .ufo {
     height: 30px;
     width: 30px;
-    background-image: url(../images/ufo.png);
+    background-image: url(images/ufo.png);
     background-size: 120%;
     background-position: center;
     position: absolute;
@@ -325,7 +325,7 @@ width: 650px;
 .astronaut {
     height: 30px;
     width: 30px;
-    background-image: url(../images/astronaut.png);
+    background-image: url(images/astronaut.png);
     background-size: 120%;
     background-position: center;
     position: absolute;
