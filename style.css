@@ -21,6 +21,8 @@ h1 {
 #output {
     color: #FFFFFF;
     text-align: center; 
+    font-size: 12px;
+    font-family: 'Pacifico', cursive;
     margin-left: 5px;
 }
 
