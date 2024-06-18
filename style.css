@@ -69,10 +69,13 @@ h1 {
 }
 
 body {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
     background-image: url(images/space2.png);
-    background-size: 133%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .sun {
@@ -349,11 +352,6 @@ height: 650px;
 width: 650px;
 }
 
-@media (max-width: 768px) {
-    .body {
-        padding: 10px;
-    }
-}
 img, video {
     max-width: 100%;
     height: auto;
